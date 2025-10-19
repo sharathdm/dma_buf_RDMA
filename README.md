@@ -1,8 +1,8 @@
-/*SKUMAR*/
+
          static int use_ion_dmabuf_flag = 0;
 
 
-/*SKUMAR*/
+
                         { .name = "use_ion_dmabuf",             .has_arg = 0, .flag = &use_ion_dmabuf_flag, .val = 1},
 
 
